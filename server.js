@@ -12,7 +12,7 @@ app.use(express.static('.'));
 
 const pool = mysql.createPool({
     host: 'padaria-erikgraciano616-2ff6.l.aivencloud.com',
-    port: '24120',
+    port: '24124',
     user: 'avnadmin',
     password: 'AVNS_MPxnNRug5ZZrc-haH6h',
     database: 'defaultdb'
